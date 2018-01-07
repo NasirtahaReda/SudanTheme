@@ -36,3 +36,5 @@ $plugin->component = 'theme_sudan';
 $plugin->dependencies = array(
     'theme_bootstrapbase'  => 2017110800,
 );
+$plugin->maturity = MATURITY_ALPHA;
+$plugin->release = 'v1.1';

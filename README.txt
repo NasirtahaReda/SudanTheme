@@ -1,1 +1,0 @@
-This theme designed to be standard theme for all universities in Sudan
